@@ -64,4 +64,8 @@
     .home__data {
         z-index: 1;
     }
+    .home__img {
+        height: auto;
+        width: 100%;
+    }
   }
