@@ -163,7 +163,7 @@ export const resume = [
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2012 Nov - 2015 Nov',
-    title: 'Master Degree in Computer science <span>Clicut University</span> <h3>Kerala, India</h3>',
+    title: 'Master Degree in Computer science <span>Calicut University</span> <h3>Kerala, India</h3>',
     desc: 'Providing a sound theoretical background as well as good practical exposure in the relevant areas. Intended to provide a modern, industry oriented education in applied computer science.',
   },
 
