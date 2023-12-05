@@ -16,6 +16,7 @@ import Work3 from './assets/Blog-1.png';
 import Work4 from './assets/Fitness-1.png';
 import Work5 from './assets/AI-1.png';
 import Work6 from './assets/ToDo - 1.png';
+import Work7 from './assets/Expense-tracker-1.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -344,6 +345,25 @@ export const portfolio = [
         title: ' ',
         desc: 'ToDo',
         href: 'https://github.com/girishgirijan/ToDo',
+      },
+    ],
+  },
+  {
+    id: 7,
+    img: Work7,
+    title: 'Expense Tracker',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MongoDB, Express, React, NodeJs, ChartJs',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Expense Tracker',
+        href: 'https://github.com/girishgirijan/Expense-Tracker',
       },
     ],
   },
