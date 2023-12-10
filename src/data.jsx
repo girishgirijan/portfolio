@@ -17,6 +17,7 @@ import Work4 from './assets/Fitness-1.png';
 import Work5 from './assets/AI-1.png';
 import Work6 from './assets/ToDo - 1.png';
 import Work7 from './assets/Expense-tracker-1.png';
+import Work8 from './assets/ecommerce-angular-stripe-1.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -364,6 +365,25 @@ export const portfolio = [
         title: ' ',
         desc: 'Expense Tracker',
         href: 'https://github.com/girishgirijan/Expense-Tracker',
+      },
+    ],
+  },
+  {
+    id: 8,
+    img: Work8,
+    title: 'Ecommerce',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MongoDB, Express, Angular, NodeJs, Stripe',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Ecommerce',
+        href: 'https://github.com/girishgirijan/ecommerce-angular-stripe',
       },
     ],
   },
