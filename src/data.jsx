@@ -376,7 +376,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: ' ',
-        desc: 'Express, Angular, NodeJs, Stripe',
+        desc: 'Express, Angular, NodeJs, Stripe(Payment implementation)',
         href: '',
       },
       {
