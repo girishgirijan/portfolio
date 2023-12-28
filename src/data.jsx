@@ -18,6 +18,7 @@ import Work5 from './assets/AI-1.png';
 import Work6 from './assets/ToDo - 1.png';
 import Work7 from './assets/Expense-tracker-1.png';
 import Work8 from './assets/ecommerce-angular-stripe-1.png';
+import Work9 from './assets/QuizApp-1.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -384,6 +385,25 @@ export const portfolio = [
         title: ' ',
         desc: 'Ecommerce',
         href: 'https://github.com/girishgirijan/ecommerce-angular-stripe',
+      },
+    ],
+  },
+  {
+    id: 9,
+    img: Work9,
+    title: 'QuizApp',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'React.js with Asp.Net Core API and MS SQL',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'QuizApp',
+        href: 'https://github.com/girishgirijan/Quizapp_React_asp.net',
       },
     ],
   },
