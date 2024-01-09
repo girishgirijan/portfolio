@@ -101,25 +101,25 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '4+',
+    no: '5+',
     title: 'Years of <br /> Experience',
   },
 
   {
     id: 2,
-    no: '15+',
+    no: '20+',
     title: 'Completed <br /> Projects',
   },
 
   {
     id: 3,
-    no: '15+',
+    no: '20+',
     title: 'Happy <br /> Customers',
   },
 
   {
     id: 4,
-    no: '20+',
+    no: '25+',
     title: ' Kudos',
   },
 ];
@@ -130,7 +130,7 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: '2022 Nov - PRESENT',
-    title: 'Technical Consultant <span> Splunk </span> <h3>Halifax, Canada</h3>',
+    title: 'Technical Support <span> Splunk </span> <h3>Halifax, Canada</h3>',
     desc: 'Provided technical solutions for more than fifteen customer projects, guaranteeing smooth functionality and integration....',
   },
 
