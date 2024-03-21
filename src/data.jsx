@@ -131,7 +131,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2022 Mar - PRESENT',
     title: 'Full Stack Developer <span> Tektonic Managed IT Services  </span> <h3>Ontario, Canada</h3>',
-    desc: '•	Implemented code optimization and caching strategies, leading to a 10% improvement in web application performance, resulting in faster load times and enhanced user satisfaction ...',
+    desc: 'Implemented code optimization and caching strategies, leading to a 10% improvement in web application performance, resulting in faster load times and enhanced user satisfaction ...',
   },
 
   {
@@ -140,7 +140,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2020 Feb - 2022 Feb',
     title: 'Full Stack Developer <span> Citadel Mortgages  </span> <h3>Ontario, Canada</h3>',
-    desc: '•	Collected business requirements, verified API endpoints, payloads, and responses; and then systematically planned, effective execution of new concepts and constructed UI and functionality leveraging a component library ...',
+    desc: 'Collected business requirements, verified API endpoints, payloads, and responses; and then systematically planned, effective execution of new concepts and constructed UI and functionality leveraging a component library ...',
   },
 
   {
@@ -204,29 +204,48 @@ export const skills = [
     title: 'React',
     percentage: '90',
   },
-
   {
     id: 5,
+    title: 'Angular',
+    percentage: '90',
+  },
+  {
+    id: 6,
+    title: 'Vue.js',
+    percentage: '87',
+  },
+  {
+    id: 7,
     title: 'Node',
     percentage: '92',
   },
 
   {
-    id: 6,
+    id: 8,
     title: 'NextJs',
     percentage: '80',
   },
 
   {
-    id: 7,
+    id: 9,
     title: 'Typescript',
     percentage: '80',
   },
 
   {
-    id: 8,
+    id: 10,
     title: 'MongoDB',
     percentage: '80',
+  },
+  {
+    id: 11,
+    title: 'MySQL',
+    percentage: '87',
+  },
+  {
+    id: 12,
+    title: 'MS SQL',
+    percentage: '90',
   },
 ];
 
