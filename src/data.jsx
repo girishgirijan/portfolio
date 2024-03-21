@@ -86,7 +86,7 @@ export const personalInfo = [
   {
     id: 4,
     title: 'Email : ',
-    description: 'girishvazheliparambil@mail.com',
+    description: 'girish.v.girijan@mail.com',
     href: "",
   },
 
@@ -129,18 +129,18 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2022 Nov - PRESENT',
-    title: 'Technical Support <span> Splunk </span> <h3>Halifax, Canada</h3>',
-    desc: 'Provided technical solutions for more than fifteen customer projects, guaranteeing smooth functionality and integration....',
+    year: '2022 Mar - PRESENT',
+    title: 'Full Stack Developer <span> Tektonic Managed IT Services  </span> <h3>Ontario, Canada</h3>',
+    desc: '•	Implemented code optimization and caching strategies, leading to a 10% improvement in web application performance, resulting in faster load times and enhanced user satisfaction ...',
   },
 
   {
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2020 Mar - 2022 Nov',
-    title: 'Full Stack Developer <span> Leo Pharma Inc </span> <h3>Ontario, Canada</h3>',
-    desc: 'Collected business requirements, verified API endpoints, payloads, and responses; and then systematically planned, effective execution of new concepts and constructed UI and functionality leveraging a component library....',
+    year: '2020 Feb - 2022 Feb',
+    title: 'Full Stack Developer <span> Citadel Mortgages  </span> <h3>Ontario, Canada</h3>',
+    desc: '•	Collected business requirements, verified API endpoints, payloads, and responses; and then systematically planned, effective execution of new concepts and constructed UI and functionality leveraging a component library ...',
   },
 
   {
