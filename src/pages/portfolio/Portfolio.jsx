@@ -3,7 +3,7 @@ import { portfolio } from '../../data';
 import PortfolioItem from '../../components/PortfolioItem';
 import './portfolio.css'
 
-function Portfolio() {
+function Portfolio() {  
   return (
     <section className='portfolio section'>
       <h2 className="section__title">
@@ -11,7 +11,7 @@ function Portfolio() {
       </h2>
 
       <div className="portfolio__container container grid">
-        {portfolio.reverse().map((item) => {
+        {portfolio.slice().reverse().map((item) => {
           return <PortfolioItem key={item.id} {...item} />
         })}
       </div>
