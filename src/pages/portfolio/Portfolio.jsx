@@ -11,7 +11,7 @@ function Portfolio() {
       </h2>
 
       <div className="portfolio__container container grid">
-        {portfolio.map((item) => {
+        {portfolio.reverse().map((item) => {
           return <PortfolioItem key={item.id} {...item} />
         })}
       </div>
