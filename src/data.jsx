@@ -19,6 +19,8 @@ import Work6 from './assets/ToDo - 1.png';
 import Work7 from './assets/Expense-tracker-1.png';
 import Work8 from './assets/ecommerce-angular-stripe-1.png';
 import Work9 from './assets/QuizApp-1.png';
+import Work10 from './assets/Authentication_app.png';
+import Work11 from './assets/AI_Tool.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -423,6 +425,44 @@ export const portfolio = [
         title: ' ',
         desc: 'QuizApp',
         href: 'https://github.com/girishgirijan/Quizapp_React_asp.net',
+      },
+    ],
+  },
+  {
+    id: 10,
+    img: Work10,
+    title: 'Authenticatio App',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MongoDB, Express, Reactjs, Nodejs, JWT',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Authenticatio App',
+        href: 'https://github.com/girishgirijan/authentication_web_app',
+      },
+    ],
+  },
+  {
+    id: 11,
+    img: Work11,
+    title: 'AI SAAS Tool',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'Nextjs, MongoDB, Open AI',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'AI SAAS Tool',
+        href: 'https://github.com/girishgirijan/ai-saas',
       },
     ],
   },
