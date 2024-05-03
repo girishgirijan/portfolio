@@ -21,6 +21,7 @@ import Work8 from './assets/ecommerce-angular-stripe-1.png';
 import Work9 from './assets/QuizApp-1.png';
 import Work10 from './assets/Authentication_app.png';
 import Work11 from './assets/AI_Tool.png';
+import Work12 from './assets/mern-blog.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -463,6 +464,25 @@ export const portfolio = [
         title: ' ',
         desc: 'AI SAAS Tool',
         href: 'https://github.com/girishgirijan/ai-saas',
+      },
+    ],
+  },
+  {
+    id: 12,
+    img: Work12,
+    title: 'MERN Blog',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MongoDB, Express, React, Node, Tailwind',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Blog Web Application',
+        href: 'https://github.com/girishgirijan/mern-blog',
       },
     ],
   },
