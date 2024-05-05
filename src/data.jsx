@@ -22,6 +22,7 @@ import Work9 from './assets/QuizApp-1.png';
 import Work10 from './assets/Authentication_app.png';
 import Work11 from './assets/AI_Tool.png';
 import Work12 from './assets/mern-blog.png';
+import Work13 from './assets/google-clone-nextjs.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -483,6 +484,25 @@ export const portfolio = [
         title: ' ',
         desc: 'Blog Web Application',
         href: 'https://github.com/girishgirijan/mern-blog',
+      },
+    ],
+  },
+  {
+    id: 13,
+    img: Work13,
+    title: 'Google Clone',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'Nextjs, Tailwind',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Google Clone using Nextjs and Tailwind',
+        href: 'https://github.com/girishgirijan/next-google-clone',
       },
     ],
   },
