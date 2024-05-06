@@ -23,6 +23,7 @@ import Work10 from './assets/Authentication_app.png';
 import Work11 from './assets/AI_Tool.png';
 import Work12 from './assets/mern-blog.png';
 import Work13 from './assets/google-clone-nextjs.png';
+import Work14 from './assets/IMDb_Clone.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
