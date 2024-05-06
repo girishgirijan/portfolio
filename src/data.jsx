@@ -506,6 +506,25 @@ export const portfolio = [
       },
     ],
   },
+  {
+    id: 14,
+    img: Work14,
+    title: 'IMDb Clone',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'Nextjs, Tailwind',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'IMDb Clone using Nextjs and Tailwind',
+        href: 'https://github.com/girishgirijan/imdb-clone',
+      },
+    ],
+  },
 ];
 
 export const themes = [
