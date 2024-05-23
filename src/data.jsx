@@ -24,6 +24,7 @@ import Work11 from './assets/AI_Tool.png';
 import Work12 from './assets/mern-blog.png';
 import Work13 from './assets/google-clone-nextjs.png';
 import Work14 from './assets/IMDb_Clone.png';
+import Work15 from './assets/Expense-Tracker.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -523,6 +524,31 @@ export const portfolio = [
         title: ' ',
         desc: 'IMDb Clone using Nextjs and Tailwind',
         href: 'https://github.com/girishgirijan/imdb-clone',
+      },
+    ],
+  },
+  {
+    id: 15,
+    img: Work15,
+    title: 'Expense Tracker (MERN + GraphQL)',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MERN, GraphQL, Tailwind',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Expense Tracker using MERN, GraphQL and Tailwind',
+        href: 'https://github.com/girishgirijan/expense_tracker',
+      },
+      {
+        icon: <FiExternalLink />,
+        title: ' ',
+        desc: 'www.expense-tracker-iv3c.onrender.com',
+        href: 'https://expense-tracker-iv3c.onrender.com/',
       },
     ],
   },
