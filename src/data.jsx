@@ -567,7 +567,7 @@ export const portfolio = [
       {
         icon: <FaGithub />,
         title: ' ',
-        desc: 'Chat Applicatio usingMERN, Tailwind, JWT and Socket.io',
+        desc: 'Chat Applicatio using MERN, Tailwind, JWT and Socket.io',
         href: 'https://github.com/girishgirijan/chat_app',
       },
       {
