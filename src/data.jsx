@@ -25,6 +25,7 @@ import Work12 from './assets/mern-blog.png';
 import Work13 from './assets/google-clone-nextjs.png';
 import Work14 from './assets/IMDb_Clone.png';
 import Work15 from './assets/Expense-Tracker.png';
+import Work16 from './assets/Chat-application.png';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -549,6 +550,31 @@ export const portfolio = [
         title: ' ',
         desc: 'www.expense-tracker-iv3c.onrender.com',
         href: 'https://expense-tracker-iv3c.onrender.com/',
+      },
+    ],
+  },
+  {
+    id: 16,
+    img: Work16,
+    title: 'Chat Application',
+    details: [
+      {
+        icon: <FaCode />,
+        title: ' ',
+        desc: 'MERN, Tailwind, JWT, Socket.io',
+        href: '',
+      },
+      {
+        icon: <FaGithub />,
+        title: ' ',
+        desc: 'Chat Applicatio usingMERN, Tailwind, JWT and Socket.io',
+        href: 'https://github.com/girishgirijan/chat_app',
+      },
+      {
+        icon: <FiExternalLink />,
+        title: ' ',
+        desc: 'www.chat-app-se07.onrender.com',
+        href: 'https://chat-app-se07.onrender.com/',
       },
     ],
   },
