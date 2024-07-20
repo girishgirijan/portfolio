@@ -154,7 +154,7 @@ export const resume = [
     id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2015 Nov - 2018 Apr',
+    year: '2017 Nov - 2018 Apr',
     title: 'Full Stack Developer <span> Nuvento Inc </span> <h3>Kerala, India</h3>',
     desc: 'Completed 10+ web development projects, showcasing proficiency in HTML, CSS, and JavaScript, this included 3 projects for Fortune 500 clients, contributing to a 30% increase in project acquisition....',
   },

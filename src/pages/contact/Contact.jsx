@@ -32,7 +32,7 @@ function Contact() {
               <FaEnvelopeOpen className="info__icon" />
               <div>
                 <span className="info__title">Mail me</span>
-                <h4 className="info__desc">girishvazheliparambil@gmail.com</h4>
+                <h4 className="info__desc">girish.v.girijan@gmail.com</h4>
               </div>
             </div>
 
