@@ -20,9 +20,7 @@ function Home() {
           <p className="home__description">
             Full Stack Engineer
             and have proficient experience in designing and developing front-end
-            and back-end technologies and restful web services in various
-            industries like Utility, Insurance, Sports, Finance, and
-            Recruitment.
+            and back-end technologies and restful web services.
           </p>
 
           <Link to="/about" className="button">
