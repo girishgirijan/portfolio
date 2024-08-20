@@ -93,7 +93,8 @@ export const personalInfo = [
   {
     id: 4,
     title: "Email : ",
-    description: "girish.v.girijan@gmail.com",
+    //description: "girish.v.girijan@gmail.com",
+    description: "girish.girijan.3516@gmail.com",
     href: "",
   },
 
