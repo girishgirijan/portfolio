@@ -137,7 +137,7 @@ export const resume = [
     id: 1,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2022 Mar - PRESENT",
+    year: "2020 Nov - PRESENT",
     title:
       "Technical Support <span> Splunk  </span> <h3>Nova Scotia, Canada</h3>",
     desc: "Strong command of platforms like AWS, salesforce, slack, and service now. Supporting our clients with cloud and administrative issues and exposure to Bit buck, Jira, and Confluence ...",
