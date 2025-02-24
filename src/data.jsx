@@ -102,7 +102,7 @@ export const personalInfo = [
     id: 5,
     title: "Linkedin : ",
     description: "Girish Girijan",
-    href: "https://www.linkedin.com/in/girish-girijan-09963282/",
+    href: "https://www.linkedin.com/in/girish-girijan/",
   },
 ];
 
